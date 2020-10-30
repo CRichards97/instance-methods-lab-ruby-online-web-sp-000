@@ -1,4 +1,4 @@
-# Instance Methods Lab Ruby
+nx n# Instance Methods Lab Ruby
 
 ## Learning Goals
 
